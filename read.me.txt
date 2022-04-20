@@ -1,0 +1,6 @@
+banco = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    passwd="",
+    database="projeto_econocom"
+) 
